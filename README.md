@@ -62,3 +62,24 @@ A well-designed booking system reduces user frustration, increases trust, and le
 | **DevOps Engineers** | Handle deployment, set up CI/CD, manage servers and domains |
 | **Product Owner** | Defines features, prioritizes tasks, represents user needs |
 | **Scrum Master** | Runs stand-ups, removes blockers, keeps agile process on track |
+
+
+## 🧩 UI Component Patterns
+
+We will build reusable components for consistency and efficiency.
+
+### 🔹 Navbar
+- Contains: Logo, search bar, user menu (login/profile)
+- Responsive: Collapses into hamburger menu on mobile
+
+### 🔹 Property Card
+- Displays: Property image, price per night, location, star rating
+- Includes: "Favorite" heart button
+- Clickable to go to detailed view
+- Responsive layout for grid display
+
+### 🔹 Footer
+- Links: About, Help, Privacy, Terms
+- Info: Company name, contact
+- Social media icons
+- Copyright notice
