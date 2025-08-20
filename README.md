@@ -50,3 +50,15 @@ A well-designed booking system reduces user frustration, increases trust, and le
 - **Headings**: Circular, Bold (700), 24px–32px
 - **Secondary Text**: Circular, Book (400), 14px
 
+## 👥 Project Roles and Responsibilities
+
+| Role | Responsibilities |
+|------|------------------|
+| **Project Manager** | Oversees timeline, coordinates team meetings, tracks progress |
+| **Frontend Developers** | Build UI components, ensure responsive design, implement Figma designs |
+| **Backend Developers** | Create APIs, manage database, handle authentication and bookings |
+| **Designers** | Design mockups in Figma, maintain design system, ensure UX quality |
+| **QA/Testers** | Write test cases, perform manual & automated testing, report bugs |
+| **DevOps Engineers** | Handle deployment, set up CI/CD, manage servers and domains |
+| **Product Owner** | Defines features, prioritizes tasks, represents user needs |
+| **Scrum Master** | Runs stand-ups, removes blockers, keeps agile process on track |
